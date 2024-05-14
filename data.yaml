@@ -1,0 +1,4 @@
+train: Data_Images/train
+val: Data_Images/test
+nc: 2
+names: ['person','dog']
